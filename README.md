@@ -11,7 +11,7 @@
 
 ### **Estructura de archivos recomendada:**
 ```
-C:\xampp\htdocs\ejercicios-php\
+C:\xampp\htdocs\ejercicios\
 ├── ejercicio1-caracteristicas.php
 └── ejercicio2-calculadora.php
 ```
